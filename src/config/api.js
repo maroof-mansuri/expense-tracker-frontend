@@ -1,7 +1,7 @@
 import React from "react";
 
 export const API_BASE_URL =
-  "http://localhost:5000/api/v1";
+  "https://expense-tracker-backend-nine-lovat.vercel.app/api/v1";
 
 export const ENDPOINTS = {
   LOGIN: `${API_BASE_URL}/users/login`,
